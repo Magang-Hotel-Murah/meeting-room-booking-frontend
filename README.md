@@ -37,7 +37,7 @@ Aplikasi ini terhubung dengan backend Laravel untuk mengelola autentikasi, booki
   https://github.com/Magang-Hotel-Murah/meeting-room-booking-frontend.git
 
 * ⚙️ Backend (oleh tim):
-  https://github.com/TEMAN-USERNAME/backend-meeting-room
+  https://github.com/Magang-Hotel-Murah/backend.git
 
 ---
 
