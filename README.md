@@ -34,7 +34,7 @@ Aplikasi ini terhubung dengan backend Laravel untuk mengelola autentikasi, booki
 ## 📂 Repository
 
 * 💻 Frontend (this repo):
-  https://github.com/USERNAME/frontendhotelmurah
+  https://github.com/Magang-Hotel-Murah/meeting-room-booking-frontend.git
 
 * ⚙️ Backend (oleh tim):
   https://github.com/TEMAN-USERNAME/backend-meeting-room
@@ -67,8 +67,8 @@ frontendhotelmurah/
 ### 1. Clone Repository
 
 ```bash id="cmd1"
-git clone https://github.com/USERNAME/frontendhotelmurah.git
-cd frontendhotelmurah
+git clone https://github.com/Magang-Hotel-Murah/meeting-room-booking-frontend.git
+cd meeting-room-booking-frontend
 ```
 
 ---
